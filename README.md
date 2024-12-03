@@ -4,7 +4,7 @@ The sentiment analysis system utilizes an LSTM model to classify IMDb movie revi
 
 ## Execution Guide:
 
-1. Run the following command lines in the terminal:
+1. Run the following command line in the terminal:
      ```
      pip install pandas numpy matplotlib tensorflow scikit-learn
      ```
