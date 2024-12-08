@@ -13,7 +13,7 @@ The sentiment analysis system utilizes an LSTM model to classify IMDb movie revi
 
 3. Copy the path of the `IMDb Dataset.csv` file and paste it in the code
 
-4. Download the GloVe embeddings from the official website: **https://nlp.stanford.edu/projects/glove/** > Download the glove.6B.zip file > Extract the `glove.6B.100d.txt` file from the zip folder (or) Download the `glove.6B.100d.txt` from the repository
+4. Download the GloVe embeddings from the official website: **https://nlp.stanford.edu/projects/glove/** > Download the glove.6B.zip file > Extract the `glove.6B.100d.txt` file from the zip folder
 
 5. Copy and paste the directory of this `.txt` file into the code
 
