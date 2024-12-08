@@ -1,5 +1,4 @@
 # Sentiment Analysis on Movie Reviews
-
 The sentiment analysis system utilizes an LSTM model to classify IMDb movie reviews as positive or negative. It preprocesses text, applies GloVe embeddings and trains the model achieving 85.39% accuracy.
 
 ## Execution Guide:
