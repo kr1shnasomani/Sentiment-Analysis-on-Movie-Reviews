@@ -20,7 +20,13 @@ The sentiment analysis system utilizes an LSTM model to classify IMDb movie revi
 
 7. The answer to the review will be provided by the cell with an accuracy of more than 80%
 
-8. The output will look like:
+## Accuracy and loss over epochs:
+
+![image](https://github.com/user-attachments/assets/11e1f66d-990a-41a2-afb3-9baafef2a4c5)
+
+![image](https://github.com/user-attachments/assets/a35085c2-8111-4423-be62-f7ce413bfd70)
+
+## Model prediction:
 
    ![image](https://github.com/user-attachments/assets/bf57691c-c80c-4ba7-ba77-ba55f000715e)
 
